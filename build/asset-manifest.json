@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9432576c.css",
+    "main.js": "/static/js/main.b6257e5c.js",
+    "static/js/787.a7d8c496.chunk.js": "/static/js/787.a7d8c496.chunk.js",
+    "static/media/logisim-generic-2.7.1.jar": "/static/media/logisim-generic-2.7.1.ea8b84d64588d707fc28.jar",
+    "static/media/5.jpg": "/static/media/5.4129d691da46e5934032.jpg",
+    "static/media/2.jpg": "/static/media/2.52a54fd6cc2c6c40a15b.jpg",
+    "static/media/4.jpg": "/static/media/4.bde1eb95d6dfa91eb2b3.jpg",
+    "static/media/6.jpg": "/static/media/6.5dbe7b07192b1b0e42a9.jpg",
+    "static/media/deri.jpg": "/static/media/deri.e92d694ccbd11b38b7fa.jpg",
+    "static/media/rahul.jpg": "/static/media/rahul.e92d694ccbd11b38b7fa.jpg",
+    "static/media/1.png": "/static/media/1.ad0cbacef455aee125da.png",
+    "static/media/chrome.ico": "/static/media/chrome.8adfbc58fb6c54cae69a.ico",
+    "static/media/win-trash-full.ico": "/static/media/win-trash-full.c48d943d5867c72d17f6.ico",
+    "static/media/win-trash-empty.ico": "/static/media/win-trash-empty.65e27e7c457af9cf96c6.ico",
+    "static/media/win-search.ico": "/static/media/win-search.8ba6d0db1705de0fd8a6.ico",
+    "static/media/win-file-explorer.ico": "/static/media/win-file-explorer.0f8f8b6841e76623bc7d.ico",
+    "static/media/win-settings.ico": "/static/media/win-settings.07c2417ecea1501e90a1.ico",
+    "service-worker.js": "/service-worker.js",
+    "static/media/3.png": "/static/media/3.07523a39d8cb25a57992.png",
+    "index.html": "/index.html",
+    "main.9432576c.css.map": "/static/css/main.9432576c.css.map",
+    "main.b6257e5c.js.map": "/static/js/main.b6257e5c.js.map",
+    "787.a7d8c496.chunk.js.map": "/static/js/787.a7d8c496.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9432576c.css",
+    "static/js/main.b6257e5c.js"
+  ]
+}
